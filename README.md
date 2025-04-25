@@ -22,4 +22,4 @@ asset.buy{value: 1 ether}();
 
 ---
 
-🧪 [Try it on Remix](https://remix.ethereum.org/#url=https://raw.githubusercontent.com/username/repo-name/main/AssetSale.sol)
+🧪 [Try it on Remix](https://remix.ethereum.org/#url=https://raw.githubusercontent.com/lostbrain404/AssetSale-contract/main/AssetSale.sol)
