@@ -19,3 +19,7 @@ AssetSale asset = new AssetSale(1 ether);
 
 // Buyer purchases the asset by sending ETH
 asset.buy{value: 1 ether}();
+
+---
+
+🧪 [Try it on Remix](https://remix.ethereum.org/#url=https://raw.githubusercontent.com/username/repo-name/main/AssetSale.sol)
